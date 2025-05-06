@@ -503,4 +503,7 @@
     <string name="status_bar_shade_split_more_quick_settings">More Quick Settings</string>
     <string name="status_bar_shade_split_more_notifications">More notifications</string>
     <string name="keywords_shade_split_ratio">shade, split, ratio, notifications, quick settings, boundary</string>
+
+    <!-- Haptic Effect Style -->
+    <string name="haptic_effect_style_title">Haptic effect style</string>
 </resources>

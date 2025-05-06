@@ -29,4 +29,7 @@
     <!-- Wakelock timeout (ms) when waking from pickup (raise-to-wake).
          Default: 300. Overlay in device config to tune. -->
     <integer name="config_dozePulsePickup_WakelockTimeoutMs" translatable="false">300</integer>
+
+    <!-- Show haptic styles -->
+    <bool name="config_supportHapticProfiles" translatable="false">false</bool>
 </resources>
